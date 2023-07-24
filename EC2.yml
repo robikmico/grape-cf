@@ -13,7 +13,7 @@ Resources:
       Tags:
         -
           Key: Appplication
-          Value: grape Server
+          Value: grape-1 Server
 
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
